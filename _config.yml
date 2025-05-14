@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "Fort Ashby, WV USA"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Jonathan Lewis"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jonathan Lewis"
+description              : &description "Jonathan Lewis is a mechanical engineering student at the University of Notre Dame with minors in bioengineering and innovation & entrepreneurship. His research focuses on healthcare accessibility through biomedical technologies, combining user-centered design, implementation science, and mechatronics. He has conducted research at institutions including Shirley Ryan AbilityLab, Sapienza University, and Notre Dame, and will be joining Stanford’s Zhao Lab for Summer 2025. Jonathan is passionate about developing low-cost, user-driven medical innovations that address disparities in both rural and urban communities."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Jonathan Lewis"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Jonathan Lewis is a mechanical engineering student at the University of Notre Dame with minors in bioengineering and innovation & entrepreneurship. His research focuses on healthcare accessibility through biomedical technologies, combining user-centered design, implementation science, and mechatronics. He has conducted research at institutions including Shirley Ryan AbilityLab, Sapienza University, and Notre Dame, and will be joining Stanford’s Zhao Lab for Summer 2025. Jonathan is passionate about developing low-cost, user-driven medical innovations that address disparities in both rural and urban communities."
   location         : "Fort Ashby, West Virginia USA"
   employer         : "University of Notre Dame"
   uri              : # URL
